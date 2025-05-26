@@ -1,3 +1,4 @@
+//Write a code to get the age from the User and check if User is eligible to vote or not
 import java.util.Scanner;
 
 public class VoteEligibility{
